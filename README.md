@@ -27,5 +27,8 @@ It is not compatible with datasets that use labels instead of XML values.
 3. Close Microsoft Excel if it's open.
 4. Double-click `install`.
 5. Wait for a success message to confirm installation.
+   A new tab will appear. See the PDF guide for instructions on how to use this add-in.
+   
 ![REACH Tab](https://github.com/mazemi/VBA/blob/main/addin.PNG)
+
 ---
