@@ -14,7 +14,7 @@ It is not compatible with datasets that use labels instead of XML values.
 ## Features
 
 - Check interview durations based on audit files  
-- Apply smimple logical checks  
+- Apply simple logical checks  
 - Identify outliers  
 - Generate summaries and visualizations
 
