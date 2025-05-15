@@ -31,5 +31,4 @@ It is not compatible with datasets that use labels instead of XML values.
    
 ![REACH Tab](https://github.com/mazemi/VBA/blob/main/addin.PNG)
 
----
 The VBA project is protected with the password **spru**, intended only to prevent accidental modifications by users — not for security.
