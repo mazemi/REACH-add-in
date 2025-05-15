@@ -32,3 +32,5 @@ It is not compatible with datasets that use labels instead of XML values.
 ![REACH Tab](https://github.com/mazemi/VBA/blob/main/addin.PNG)
 
 ---
+VBA password: spru
+The VBA password is only meant to prevent accidental changes by the end user.
